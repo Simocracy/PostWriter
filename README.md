@@ -6,6 +6,10 @@ Der PostWriter verfügt über alles, was zum Posten benötigt wird.
 
 Unter ```/src/de/simocracy/postwriter/datumsrechner/``` ist ebenfalls ein Datumrechner (Java-Version) enthalten.
 
+Zum kompilieren benötigt werden folgende Bibliotheken:
+* SQLite JDBC Driver: https://bitbucket.org/xerial/sqlite-jdbc
+* Wiki-Java: https://github.com/MER-C/wiki-java
+
 Download Executable: http://sahels.de/-sy/details.php?file=27
 
 Vollständige Informationen: https://simocracy.de/PostWriter
